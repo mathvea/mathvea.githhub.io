@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NEW PAGE"
-permalink: https://mathvea.github.io/mathvea.githhub.io/
+permalink: /
 ---
 
 Trying adding a new page and content
